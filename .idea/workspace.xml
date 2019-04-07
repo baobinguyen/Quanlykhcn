@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="quanly-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23b9d758-e66b-493a-9717-07aa1d85ef75" name="Default Changelist" comment="row table">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/constant/CoreConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-dao-impl/src/main/java/vn/duytan/core/daoimpl/RoleDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-dao/src/main/java/vn/duytan/core/dao/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-data/src/main/java/vn/duytan/core/data/dao/GenericDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-data/src/main/java/vn/duytan/core/data/daoimpl/AbstractDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/CbgvEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv_ctEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv_vbEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/CtadthuctienEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DanhmucctEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DanhmucvbEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DetaikhcngandayEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DonviEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/GiaithuongEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/KinhnghiemkhcnEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/LinhvucEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/NganhEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/NguyencuusinhEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/QuatrinhctEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/QuatrinhdtEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/RoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/TrinhdonnEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-service-impl/src/main/java/vn/duytan/core/service/impl/TestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-test/quanly-core-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-test/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanly-core-test/src/main/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/quanly_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/quanly_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0eb8c1c4-5d55-4770-90e7-eaeca9ddc2c7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0eb8c1c4-5d55-4770-90e7-eaeca9ddc2c7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationFile/database/0_create_database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationFile/database/0_create_database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuanLyKhcn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QuanLyKhcn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-common/quanly-core-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-common/quanly-core-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/utils/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/utils/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-dao-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-dao-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-dao/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-data/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-data/quanly-core-data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-data/quanly-core-data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-dto/quanly-core-dto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-dto/quanly-core-dto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-persistence-data/quanly-core-persistence-data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-persistence-data/quanly-core-persistence-data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-core-service/quanly-core-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-core-service/quanly-core-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-web-logic/quanly-web-logic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-web-logic/quanly-web-logic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanly-web/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quanly-web/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <list id="d74ba406-1586-4c49-bfbc-de6f4d42c3df" name="ignore" comment="" />
+    <ignored path="$PROJECT_DIR$/quanly-core-dto/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-dao/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-data/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-service/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-web/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-dao-impl/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-utils/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-web-logic/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-persistence-data/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-common/target/" />
+    <ignored path=".gitignore" />
+    <ignored path="$PROJECT_DIR$/quanly-core.-test/target/" />
+    <ignored path="$PROJECT_DIR$/quanly-core-test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hibernate.cfg.xml/Hibernate" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hibernate.cfg.xml/Hibernate" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hibernate.cfg.xml/Hibernate" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mydb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quanly-core-data/src/main/java/vn/duytan/core/data/dao/GenericDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/utils/HibernateUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quanly-core-data/src/main/java/vn/duytan/core/data/daoimpl/AbstractDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="141" column="54" selection-start-line="141" selection-start-column="54" selection-end-line="141" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/constant/CoreConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Quatrinhct.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Quatrinhdaotao.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Kinhnghiemkhcn.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Quatrinhdt.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv_vb.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Danhmucvb.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Detaikhcnganday.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Nganh.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Linhvuc.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Donvi.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv_ct.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Giaithuong.java" />
+        <option value="$PROJECT_DIR$/quanly-web/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Ctadthuctien.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Danhmucct.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv.java" />
+        <option value="$PROJECT_DIR$/quanly-core.-test/pom.xml" />
+        <option value="$PROJECT_DIR$/quanly-core.-test/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/quanly-core.-test/src/test/java/vn/duytan/core/test/RoleTest.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Chuyennganh.java" />
+        <option value="$PROJECT_DIR$/quanly-core-dao/src/main/java/vn/duytan/core/dao/RoleDao.java" />
+        <option value="$PROJECT_DIR$/quanly-core-dao-impl/src/main/java/vn/duytan/core/daoimpl/RoleDaoImpl.java" />
+        <option value="$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/utils/HibernateUtil.java" />
+        <option value="$PROJECT_DIR$/quanly-core-test/pom.xml" />
+        <option value="$PROJECT_DIR$/quanly-core-test/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/test/RoleTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/quanly-core-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DanhmucctEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DonviEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/RoleEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DanhmucvbEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv_vbEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/CbgvEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv_ctEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/ChuyennganhEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/CtadthuctienEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DetaikhcngandayEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/GiaithuongEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/KinhnghiemkhcnEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/LinhvucEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/NganhEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/NguyencuusinhEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/QuatrinhctEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/QuatrinhdtEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/TrinhdonnEntity.java" />
+        <option value="$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/constant/CoreConstant.java" />
+        <option value="$PROJECT_DIR$/quanly-core-data/src/main/java/vn/duytan/core/data/dao/GenericDao.java" />
+        <option value="$PROJECT_DIR$/quanly-core-data/src/main/java/vn/duytan/core/data/daoimpl/AbstractDao.java" />
+        <option value="$PROJECT_DIR$/quanly-core-test/src/test/java/vn/duytan/core/test/RoleTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="QuanLyKhcn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="QuanLyKhcn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="666" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QuanLyKhcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quanlykhcn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuanLyKhcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quanlykhcn" type="462c0819:PsiDirectoryNode" />
+              <item name="quanly-core-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuanLyKhcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quanlykhcn" type="462c0819:PsiDirectoryNode" />
+              <item name="quanly-core-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuanLyKhcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quanlykhcn" type="462c0819:PsiDirectoryNode" />
+              <item name="quanly-core-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuanLyKhcn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554652371997" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\IdeaProjects\do_an\GIT\Quanlykhcn\quanly-core-test\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat " type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.30" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\Program Files\Java\jdk1.8.0_201\jre">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="quanly-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/quanly_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_QuanLyKhcn" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53384" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="quanly-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b9d758-e66b-493a-9717-07aa1d85ef75" name="Default Changelist" comment="" />
+      <changelist id="d74ba406-1586-4c49-bfbc-de6f4d42c3df" name="ignore" comment="" />
+      <created>1553678779760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553678779760</updated>
+      <workItem from="1553678790395" duration="5366000" />
+      <workItem from="1553755566674" duration="4362000" />
+      <workItem from="1553842203129" duration="5961000" />
+      <workItem from="1554173205933" duration="802000" />
+      <workItem from="1554189590588" duration="13544000" />
+      <workItem from="1554264231619" duration="1320000" />
+      <workItem from="1554267687473" duration="4563000" />
+      <workItem from="1554276864384" duration="221000" />
+      <workItem from="1554277157234" duration="5730000" />
+      <workItem from="1554364917363" duration="3794000" />
+      <workItem from="1554371198842" duration="2172000" />
+      <workItem from="1554386495587" duration="10505000" />
+      <workItem from="1554442537649" duration="7894000" />
+      <workItem from="1554462271897" duration="5816000" />
+      <workItem from="1554645704708" duration="4463000" />
+    </task>
+    <task id="LOCAL-00001" summary="row table">
+      <created>1553681477390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553681477390</updated>
+    </task>
+    <task id="LOCAL-00002" summary="row table">
+      <created>1554191168838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554191168838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RoleTest_checksaveRole - 2019.04.05 at 18h 10m 27s.xml">
+      <configuration name="RoleTest.checksaveRole" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_checkFindId - 2019.04.05 at 18h 22m 50s.xml">
+      <configuration name="RoleTest.checkFindId" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_findByProperty - 2019.04.05 at 19h 28m 08s.xml">
+      <configuration name="RoleTest.findByProperty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_findByProperty - 2019.04.05 at 19h 30m 20s.xml">
+      <configuration name="RoleTest.findByProperty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_findByProperty - 2019.04.05 at 19h 33m 59s.xml">
+      <configuration name="RoleTest.findByProperty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_findByProperty - 2019.04.05 at 19h 41m 47s.xml">
+      <configuration name="RoleTest.findByProperty" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_checkDelete - 2019.04.07 at 22h 29m 43s.xml">
+      <configuration name="RoleTest.checkDelete" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_checkDelete - 2019.04.07 at 22h 33m 00s.xml">
+      <configuration name="RoleTest.checkDelete" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_checksaveRole - 2019.04.07 at 22h 34m 04s.xml">
+      <configuration name="RoleTest.checksaveRole" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RoleTest_checksaveRole - 2019.04.07 at 22h 34m 41s.xml">
+      <configuration name="RoleTest.checksaveRole" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76513000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Persistence" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4744898" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32993197" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924356" weight="0.32993197" />
+      <window_info anchor="bottom" id="Database Console" order="8" sideWeight="0.4977307" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.32993197" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50226927" side_tool="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32993197" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32993197" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.23809524" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.19515885" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.12783661" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="SHOW_DETAILS_IN_CHANGES" value="false" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="row table" />
+    <option name="LAST_COMMIT_MESSAGE" value="row table" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/quanly-core-test/src/test/java/vn/duytan/core/test/RoleTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/quanly-core-test/src/test/java/vn/duytan/core/test/RoleTest.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/quanly-core-test/src/test/java/vn/duytan/core/test/RoleTest.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="e" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>e</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0eb8c1c4-5d55-4770-90e7-eaeca9ddc2c7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-web-logic/src/main/java/vn/duytan/web/logic/common/WebConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://469fb89d-c952-4622-90d5-fe30294d6906/schema/mydb/table/trinhdonn/index/fk_TRINHDONN_CBGV1_idx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApplicationFile/database/0_create_database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6409">
+          <caret line="377" selection-start-line="377" selection-end-line="377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-dao/src/main/java/vn/duytan/core/dao/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-web/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="77" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/quanly-core-persistence-data.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/test/RoleTest.java" />
+    <entry file="file://$PROJECT_DIR$/quanly-core-test/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-test/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://469fb89d-c952-4622-90d5-fe30294d6906/schema/mydb/table/role">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-common/quanly-core-common.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-dao-impl/src/main/java/vn/duytan/core/daoimpl/RoleDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0eb8c1c4-5d55-4770-90e7-eaeca9ddc2c7/schema/mydb/table/cbgv_vb">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0eb8c1c4-5d55-4770-90e7-eaeca9ddc2c7/schema/mydb/table/danhmucvb">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0eb8c1c4-5d55-4770-90e7-eaeca9ddc2c7/schema/mydb/table/cbgv">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/CbgvEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv_vbEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/Cbgv_ctEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/ChuyennganhEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DanhmucctEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DanhmucvbEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+            <element signature="e#1623#1624#0" expanded="true" />
+            <element signature="e#1700#1701#0" expanded="true" />
+            <element signature="e#1756#1757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/CtadthuctienEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DonviEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/DetaikhcngandayEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/GiaithuongEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/KinhnghiemkhcnEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/LinhvucEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/NganhEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/NguyencuusinhEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/QuatrinhctEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/RoleEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/QuatrinhdtEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-persistence-data/src/main/java/vn/duytan/core/persistence/entity/TrinhdonnEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.7/testng-6.8.7.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.3.6.Final/hibernate-core-4.3.6.Final.jar!/org/hibernate/Session.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/utils/HibernateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-common/src/main/java/vn/duytan/core/common/constant/CoreConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.7/testng-6.8.7.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="501" selection-start-line="501" selection-end-line="501" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-data/src/main/java/vn/duytan/core/data/daoimpl/AbstractDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="141" column="54" selection-start-line="141" selection-start-column="54" selection-end-line="141" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0eb8c1c4-5d55-4770-90e7-eaeca9ddc2c7/schema/mydb/table/role">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-service-impl/quanly-core-service-impl.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="3" selection-start-column="108" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-service-impl/src/main/java/vn/duytan/core/service/impl/TestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-test/src/test/java/vn/duytan/core/test/RoleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanly-core-data/src/main/java/vn/duytan/core/data/dao/GenericDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>quanly-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>quanly-core-dao-impl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

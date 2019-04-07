@@ -14,6 +14,7 @@
         <module name="quanly-core-persistence-data" />
         <module name="quanly-core-service" />
         <module name="quanly-core-service-impl" />
+        <module name="quanly-core-test" />
         <module name="quanly-core-utils" />
         <module name="quanly-web" />
         <module name="quanly-web-logic" />
@@ -28,6 +29,7 @@
       <module name="quanly-core-persistence-data" target="1.5" />
       <module name="quanly-core-service" target="1.5" />
       <module name="quanly-core-service-impl" target="1.5" />
+      <module name="quanly-core-test" target="1.5" />
       <module name="quanly-core-utils" target="1.5" />
       <module name="quanly-web" target="1.5" />
       <module name="quanly-web-logic" target="1.5" />

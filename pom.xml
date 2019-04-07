@@ -20,6 +20,7 @@
         <module>quanly-core-utils</module>
         <module>quanly-core-persistence-data</module>
         <module>quanly-core-common</module>
+        <module>quanly-core-test</module>
     </modules>
 
     <properties>
@@ -27,6 +28,7 @@
         <jsp.api.version>2.3.1</jsp.api.version>
         <mysql.connector.version>5.1.31</mysql.connector.version>
         <hibernate.version>4.3.6.Final</hibernate.version>
+        <testng.version>6.8.7</testng.version>
     </properties>
 
     <dependencies>
@@ -52,6 +54,14 @@
             <artifactId>hibernate-core</artifactId>
             <version>${hibernate.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>${testng.version}</version>
+        </dependency>
+
+
     </dependencies>
 
 </project>

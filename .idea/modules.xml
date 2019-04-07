@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/quanly-core-persistence-data/quanly-core-persistence-data.iml" filepath="$PROJECT_DIR$/quanly-core-persistence-data/quanly-core-persistence-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/quanly-core-service/quanly-core-service.iml" filepath="$PROJECT_DIR$/quanly-core-service/quanly-core-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/quanly-core-service-impl/quanly-core-service-impl.iml" filepath="$PROJECT_DIR$/quanly-core-service-impl/quanly-core-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quanly-core-test/quanly-core-test.iml" filepath="$PROJECT_DIR$/quanly-core-test/quanly-core-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/quanly-core-utils/quanly-core-utils.iml" filepath="$PROJECT_DIR$/quanly-core-utils/quanly-core-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/quanly-web/quanly-web.iml" filepath="$PROJECT_DIR$/quanly-web/quanly-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/quanly-web-logic/quanly-web-logic.iml" filepath="$PROJECT_DIR$/quanly-web-logic/quanly-web-logic.iml" />
