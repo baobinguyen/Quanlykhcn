@@ -18,7 +18,7 @@ public class DonviEntity {
     private String ten_Nguoi_Dung_Dau;
 
     @Column(name = "diachidonvi")
-    private String donViDonVi;
+    private String diaChiDonVi;
 
     @Column(name = "dienthoai")
     private String dienThoai;
@@ -56,13 +56,6 @@ public class DonviEntity {
         this.ten_Nguoi_Dung_Dau = ten_Nguoi_Dung_Dau;
     }
 
-    public String getDonViDonVi() {
-        return donViDonVi;
-    }
-
-    public void setDonViDonVi(String donViDonVi) {
-        this.donViDonVi = donViDonVi;
-    }
 
     public String getDienThoai() {
         return dienThoai;
@@ -96,4 +89,11 @@ public class DonviEntity {
         this.cbgvEntityList = cbgvEntityList;
     }
 
+    public String getDiaChiDonVi() {
+        return diaChiDonVi;
+    }
+
+    public void setDiaChiDonVi(String diaChiDonVi) {
+        this.diaChiDonVi = diaChiDonVi;
+    }
 }

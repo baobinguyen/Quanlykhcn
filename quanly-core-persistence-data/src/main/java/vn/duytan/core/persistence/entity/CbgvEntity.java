@@ -243,7 +243,7 @@ public class CbgvEntity {
         this.createddate = createddate;
     }
 
-    public DonviEntity getDonviEntity() {
+    public vn.duytan.core.dto.DonviDTO getDonviEntity() {
         return donviEntity;
     }
 
