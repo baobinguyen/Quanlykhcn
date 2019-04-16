@@ -2,7 +2,7 @@
 <suite name="TestAll">
     <test name="case1">
         <classes>
-            <class name="vn.duytan.core.test.RoleTest" />
+            <class name="vn.duytan.api.test.LoginTest"/>
         </classes>
     </test>
 </suite>
