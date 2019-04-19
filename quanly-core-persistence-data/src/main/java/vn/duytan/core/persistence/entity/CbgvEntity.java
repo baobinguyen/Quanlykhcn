@@ -78,6 +78,10 @@ public class CbgvEntity {
     @JoinColumn(name = "id", insertable=false, updatable=false)
     private DonviEntity donviEntity;
 
+    public DonviEntity getDonviEntity() {
+        return donviEntity;
+    }
+
     @OneToMany(mappedBy = "cbgvEntity", fetch = FetchType.LAZY)
     private List<QuatrinhctEntity> quatrinhctEntityList;
 

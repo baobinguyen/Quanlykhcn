@@ -23,6 +23,7 @@ public class AbstractCommand<T> {
     public void setCrudaction(String crudaction) {
         this.crudaction = crudaction;
     }
+
     public T getPojo() {
         return pojo;
     }

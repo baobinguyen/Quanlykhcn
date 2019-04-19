@@ -10,6 +10,7 @@ public class DonviBeanUtils {
             dto.setTenDonVi(entity.getTenDonVi());
             dto.setDiaChiDonVi(entity.getDiaChiDonVi());
             dto.setTen_Nguoi_Dung_Dau(entity.getTen_Nguoi_Dung_Dau());
+            dto.setDiaChiDonVi(entity.getDiaChiDonVi());
             dto.setDienThoai(entity.getDienThoai());
             dto.setWebsite(entity.getWebsite());
             dto.setFax(entity.getFax());

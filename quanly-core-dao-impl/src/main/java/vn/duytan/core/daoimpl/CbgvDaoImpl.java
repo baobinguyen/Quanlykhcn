@@ -4,7 +4,7 @@ import org.hibernate.HibernateException;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
-import vn.duytan.core.common.utils.HibernateUtil;
+import vn.duytan.core.common.util.HibernateUtil;
 import vn.duytan.core.dao.CbgvDao;
 import vn.duytan.core.data.daoimpl.AbstractDao;
 import vn.duytan.core.persistence.entity.CbgvEntity;

@@ -16,7 +16,7 @@ public class CbgvServiceImpl implements CbgvService {
 
     public CbgvDTO findRoleByCbgv(CbgvDTO dto) {
         CbgvDao cbgvDao = new CbgvDaoImpl();
-        CbgvEntity entity = cbgvDao.findRoleByCbgv(dto.getMatKhau(),dto.getMatKhau());
+        CbgvEntity entity = cbgvDao.findRoleByCbgv(dto.getHoTen(),dto.getMatKhau());
         return CbgvBeanUtils.entity2Dto(entity);
     }
 }

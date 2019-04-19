@@ -23,6 +23,7 @@ public class CbgvBeanUtils {
             cbgvDTO.setLinhVucChuyenMonSau(entity.getLinhVucChuyenMonSau());
             cbgvDTO.setCreateddate(entity.getCreateddate());
             cbgvDTO.setRoleDTO(RoleBeanUtils.entity2Dto(entity.getRoleEntity()));
+            cbgvDTO.setDonviDTO(DonviBeanUtils.entity2Dto(entity.getDonviEntity()));
         return cbgvDTO;
     }
     public static CbgvEntity dto2Entity (CbgvDTO dto){

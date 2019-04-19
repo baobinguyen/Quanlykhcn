@@ -2,7 +2,7 @@ package vn.duytan.core.data.daoimpl;
 
 import org.hibernate.*;
 import vn.duytan.core.common.constant.CoreConstant;
-import vn.duytan.core.common.utils.HibernateUtil;
+import vn.duytan.core.common.util.HibernateUtil;
 import vn.duytan.core.data.dao.GenericDao;
 
 import java.io.Serializable;
